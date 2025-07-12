@@ -86,14 +86,14 @@ header .banner .banner-text {
     align-items: center;
     gap:8px;
 
-    font-size: 70px;
+    font-size: 40px;
 
     /* padding-top: 158px; */
 }
 
 header .banner .stay-focused-button {
     color: white;
-    font-size: 30px;
+    font-size: 25px;
 
     background-color: #4E47FF;
 
@@ -107,17 +107,17 @@ main .action-section {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 450px;
+    gap: 350px;
 
     margin: 150px;
 }
 
 main .action-section h3 {
-    font-size: 55px;
+    font-size: 45px;
 }
 
 main .action-section p {
-    font-size: 30px;
+    font-size: 25px;
     color: gray;
     font-weight: 100;
 }
