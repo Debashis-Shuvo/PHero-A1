@@ -75,7 +75,7 @@ header .banner .banner-content{
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    gap: 35px;
+    gap: 50px;
 
     /* padding-bottom: 250px; */
 }
@@ -107,17 +107,17 @@ main .action-section {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 300px;
+    gap: 450px;
 
     margin: 150px;
 }
 
 main .action-section h3 {
-    font-size: 40px;
+    font-size: 55px;
 }
 
 main .action-section p {
-    font-size: 25px;
+    font-size: 30px;
     color: gray;
     font-weight: 100;
 }
@@ -129,7 +129,7 @@ main .action-section .left-part {
     align-items: flex-start;
     justify-content: space-between;
     
-    gap: 25px;
+    gap: 35px;
 }
 
 main .action-section .left-part .live-launch-button {
@@ -138,7 +138,7 @@ main .action-section .left-part .live-launch-button {
 
     background-color: #4E47FF;
 
-    padding: 10px 20px;
+    padding: 15px 25px;
 
     border-radius: 8px;
 }
@@ -234,10 +234,6 @@ main .statistics-section .stat-data .each-stat .number {
     font-weight: 600;
 }
 
-.review-container .review .review-description {
-
-}
-
 .user-review .review-container .reviewer {
     display: flex;
     align-items: center;
@@ -280,7 +276,7 @@ main .statistics-section .stat-data .each-stat .number {
 }
 
 .project-section h2 {
-    font-size: 35px;
+    font-size: 55px;
 }
 
 .project-section button {
@@ -369,8 +365,8 @@ footer {
     align-items: center;
     gap: 28px;
 
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 footer .logo-text {
