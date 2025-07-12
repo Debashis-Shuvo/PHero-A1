@@ -111,9 +111,10 @@ main .action-section {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 350px;
+    gap: 300px;
 
-    margin: 150px;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 main .action-section h3 {
@@ -161,8 +162,8 @@ main .statistics-section {
 
     padding: 50px 100px;
 
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-bottom: 200px;
 
     border: 2px solid #dde3ff;
@@ -192,7 +193,7 @@ main .statistics-section .stat-data .each-stat {
 }
 
 main .statistics-section .stat-data .each-stat .number {
-    font-size: 80px;
+    font-size: 70px;
     color: #4E47FF;
     font-family: sans-serif;
     font-weight: 800;
@@ -269,8 +270,8 @@ main .statistics-section .stat-data .each-stat .number {
     gap: 25px;
 
     margin-bottom: 200px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding-top: 60px;
     padding-bottom: 70px;
 
